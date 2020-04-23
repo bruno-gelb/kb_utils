@@ -69,7 +69,7 @@ def versus(your: Unit, target: Unit) -> None:
 
 @click.command()
 def main():
-    versus(units['droid'], units['gorgul'])
+    versus(units['pushkar'], units['gorgul'])
 
 
 if __name__ == '__main__':

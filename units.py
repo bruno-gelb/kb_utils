@@ -10,5 +10,7 @@ class Unit(object):
 
 units = {
     'droid': Unit('droid', 42, 41),
-    'gorgul': Unit('gorgul', 24, 20)
+    'gorgul': Unit('gorgul', 24, 20),
+    'pushkar': Unit('pushkar', 55, 37),
+    'giant': Unit('giant', 78, 79),
 }
